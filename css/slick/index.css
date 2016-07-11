@@ -1,0 +1,19 @@
+.carousel{
+	padding: 15px 0;
+	width: 95%;
+	margin: 0 auto;
+}
+
+.carousel img{
+	margin: 0 auto;
+	border: 8px solid #ccc;
+}
+
+.carousel-item p{
+	text-align: center;
+}
+
+.carousel-caption{
+	color: red;
+	padding: 15px;
+}
